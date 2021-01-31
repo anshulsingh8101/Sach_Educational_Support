@@ -11,6 +11,7 @@ MYSQL DB
 CGI Python
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Sach_Educational_Support/blob/main/Images/Mysql.png" width="500" alt="accessibility text">
+  <br></br>
   <img src="https://github.com/anshulsingh8101/Sach_Educational_Support/blob/main/Images/2.png" width="500" alt="accessibility text">
 </p>
 
