@@ -14,4 +14,4 @@ CGI Python
   <img src="https://github.com/anshulsingh8101/Sach_Educational_Support/blob/main/Images/2.png" width="500" alt="accessibility text">
 </p>
 
-https://github.com/anshulsingh8101/Sach_Educational_Support/blob/main/Images/1.png
+
